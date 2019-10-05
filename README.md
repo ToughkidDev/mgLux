@@ -3,56 +3,59 @@ MSX LuxuryBox rom file loader
 
 
 
- mglUx - Megarom Loader for LuxuryBox -  v2.0f
-			   by ToughkidCST 2016 08
+### mglUx - Megarom Loader for LuxuryBox -  v2.0f by ToughkidCST 2016 08
 
 ![LuxuryBox](mgLux.jpg)
 
 
 
-- 개요 -  
+## 개요
 
-mglUx       -  mglUx는 2013년 9월 MSX천국동의 프로젝트인 일명 "메가램카드 복각" 프로젝트의 결과물로 
-최종 출시한 "럭셔리박스"를 기반으로 만들어진 전용 롬파일 실행기입니다. 
+### mglUx       
+	mglUx는 2013년 9월 MSX천국동의 프로젝트인 일명 "메가램카드 복각" 프로젝트의 결과물로 
+	최종 출시한 "럭셔리박스"를 기반으로 만들어진 전용 롬파일 실행기입니다. 
   
-mglUx의 장점  -  mglUx가 지원하는 장점은 다음과 같습니다 
+### mglUx의 장점
+ 	
+	mglUx가 지원하는 장점은 다음과 같습니다 
   
-  1. Konami, Konami SCC, ASCII8, ASCII16, Zemina 등 
-     그간 발매된  영향력있는 다양한 매퍼의 비파괴 구동을 지원. 
-  2. 복제 방지 프로텍트가 걸린 롬파일의 안전한 구동. 
-  3. Page0을 사용하는 Mirrored Rom의 구동
-  4. Basic으로 만들어진 롬게임의 구동. 
-  5. Turbo-R에서의 고속 터보모드로 롬파일 구동등 
+  	1. Konami, Konami SCC, ASCII8, ASCII16, Zemina 등 
+     	   그간 발매된  영향력있는 다양한 매퍼의 비파괴 구동을 지원. 
+  	
+	2. 복제 방지 프로텍트가 걸린 롬파일의 안전한 구동. 
+	
+	3. Page0을 사용하는 Mirrored Rom의 구동
+  	
+	4. Basic으로 만들어진 롬게임의 구동. 
+  	
+	5. Turbo-R에서의 고속 터보모드로 롬파일 구동등 
 
   mglUx는 게임롬파일에 패치등의 변형등의 파괴를 가하지 않고, 
-    럭셔리박스에 내장된 하드웨어 매퍼를 사용하여, 롬파일의 실행 안정성을 극대화하고, 
-    게임의 호환성을 확보하는데에 중점을 두었다는 점에 큰 강점을 지닙니다. 
-    대부분의 롬 게임은 그 어떤 파일의 변형이나 파괴없이 mglUx로 실행이 가능합니다. 
-
-
- 
-
-  
+  럭셔리박스에 내장된 하드웨어 매퍼를 사용하여, 롬파일의 실행 안정성을 극대화하고, 
+  게임의 호환성을 확보하는데에 중점을 두었다는 점에 큰 강점을 지닙니다. 
+  대부분의 롬 게임은 그 어떤 파일의 변형이나 파괴없이 mglUx로 실행이 가능합니다. 
   
 
-사용방법     -  mglUx.com [filename.rom] /opts
+### 사용방법
+	
+	mglUx.com [filename.rom] /opts
 
   mglUx는 대부분의 롬파일에 대하여 특별한 옵션없이 안전하게 실행됩니다. 
    
 
-  1. mglUx.com [filename.rom] 
+###  1. mglUx.com [filename.rom] 
   
   기본적인 사용방법은 도스프롬프트에서 위와 같이 mglUx과 파일이름을 입력하는 것 뿐입니다. 
   mglUx는 실행되는 순간 짧은 시간을 통해 롬파일 방식을 파악하고 실행하도록 합니다. 
   전반적으로 이 방법은 대부분의 게임을 실행하는데에 문제가 없는 방법입니다. 
 
-   예) mglUx gradius.rom  
+   	예) mglUx gradius.rom  
 
-  2. mglUx.com  [filename.rom] /opt
+###  2. mglUx.com  [filename.rom] /opt
   
    그럼에도 불구하고 
-  - mglUx로 롬의 실행이 적절하게 이루어지지 않은 경우. 
-  - mglUx가 롬의 mapper를 분석하는 시간을 생략하고 좀더 빠른 속도로 게임을 실행시키기 위하여. 
+   mglUx로 롬의 실행이 적절하게 이루어지지 않은 경우. 
+   mglUx가 롬의 mapper를 분석하는 시간을 생략하고 좀더 빠른 속도로 게임을 실행시키기 위하여. 
    이런 특별한 경우에 대하여 아래와 같이 최소한의 옵션을 사용하실 수 있습니다.
 
    /g - 만일 1번과 같은 방법으로 게임이 실행되지 않으면, /g 옵션을 사용하면
@@ -118,7 +121,7 @@ mglUx의 장점  -  mglUx가 지원하는 장점은 다음과 같습니다
                "salamand", 사라만다.          
 
 
-주의사항    -  
+### 주의사항    -  
 
 	0. 게임을 즐기신 후,  MSX의 전원을 끈 뒤 안전한 부팅을 위하여 3초이상 전원이 꺼진 상태를
 	   유지해 주시기 바랍니다. 
@@ -151,6 +154,8 @@ mglUx의 장점  -  mglUx가 지원하는 장점은 다음과 같습니다
 
 
 
-사용환경 - 64KB이상,MSX-DOS2환경 이상의 모든 MSX
+### 사용환경 - 
+	
+	64KB이상,MSX-DOS2환경 이상의 모든 MSX
  
     
