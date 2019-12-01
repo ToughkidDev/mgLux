@@ -18,27 +18,6 @@ MSX LuxuryBox rom file loader
 ![LuxuryBox](mgLux.jpg)
 
 
-### mglUx의 장점
- 	
-	mglUx가 지원하는 장점은 다음과 같습니다 
-  
-  	1. Konami, Konami SCC, ASCII8, ASCII16, Zemina 등 
-     	   그간 발매된  영향력있는 다양한 매퍼의 비파괴 구동을 지원. 
-  	
-	2. 복제 방지 프로텍트가 걸린 롬파일의 안전한 구동. 
-	
-	3. Page0을 사용하는 Mirrored Rom의 구동
-  	
-	4. Basic으로 만들어진 롬게임의 구동. 
-  	
-	5. Turbo-R에서의 고속 터보모드로 롬파일 구동등 
-
-  mglUx는 게임롬파일에 패치등의 변형등의 파괴를 가하지 않고, 
-  럭셔리박스에 내장된 하드웨어 매퍼를 사용하여, 롬파일의 실행 안정성을 극대화하고, 
-  게임의 호환성을 확보하는데에 중점을 두었다는 점에 큰 강점을 지닙니다. 
-  대부분의 롬 게임은 그 어떤 파일의 변형이나 파괴없이 mglUx로 실행이 가능합니다. 
-  
-
 ### 사용방법
 	
 	mglUx.com [filename.rom] /opts
