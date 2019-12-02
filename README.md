@@ -102,7 +102,7 @@ MSX LuxuryBox rom file loader
                "usas",     우사스
                "salamand", 사라만다.          
 
-## Youtube Video Link - mglOcm, mglUx Konami Game Cartridge Combination Effects 
+## Youtube Video Link - mglOcm, mglUx 코나미게임 합성 효과 즐기기 
  - https://www.youtube.com/watch?v=g5yTJ_7XwyQ&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=3
 
 ### 주의사항    -  
