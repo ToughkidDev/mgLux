@@ -1,5 +1,5 @@
 # mgLux
-## mgLux - MSX Megarom Loader for LuxuryBox - Written by ToughkidCST 
+mgLux - MSX Megarom Loader for LuxuryBox - Written by ToughkidCST 
 
 
 ## 개요
