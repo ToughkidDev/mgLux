@@ -5,7 +5,7 @@ mgLux - MSX Megarom Loader for LuxuryBox - Written by ToughkidCST
 ## 개요
 
 ### mgLux       
-	mglUx는 2013년 9월 MSX천국동의 프로젝트인 일명 "메가램카드 복각" 프로젝트의 결과물로 
+	mgLux는 2013년 9월 MSX천국동의 프로젝트인 일명 "메가램카드 복각" 프로젝트의 결과물로 
 	최종 출시한 "럭셔리박스"를 기반으로 만들어진 전용 롬파일 실행기입니다. 
   
 ### LuxuryBox
