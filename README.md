@@ -4,7 +4,7 @@ mgLux - MSX Megarom Loader for LuxuryBox - Written by ToughkidCST
 
 ## 개요
 
-### mglUx       
+### mgLux       
 	mglUx는 2013년 9월 MSX천국동의 프로젝트인 일명 "메가램카드 복각" 프로젝트의 결과물로 
 	최종 출시한 "럭셔리박스"를 기반으로 만들어진 전용 롬파일 실행기입니다. 
   
@@ -14,24 +14,24 @@ mgLux - MSX Megarom Loader for LuxuryBox - Written by ToughkidCST
 
 ### 사용방법
 	
-	mglUx.com [filename.rom] /opts
+	mgLux.com [filename.rom] /opts
 
-  mglUx는 대부분의 롬파일에 대하여 특별한 옵션없이 안전하게 실행됩니다. 
+  mgLux는 대부분의 롬파일에 대하여 특별한 옵션없이 안전하게 실행됩니다. 
    
 
-###  1. mglUx.com [filename.rom] 
+###  1. mgLux.com [filename.rom] 
   
   기본적인 사용방법은 도스프롬프트에서 위와 같이 mglUx과 파일이름을 입력하는 것 뿐입니다. 
-  mglUx는 실행되는 순간 짧은 시간을 통해 롬파일 방식을 파악하고 실행하도록 합니다. 
+  mgLux는 실행되는 순간 짧은 시간을 통해 롬파일 방식을 파악하고 실행하도록 합니다. 
   전반적으로 이 방법은 대부분의 게임을 실행하는데에 문제가 없는 방법입니다. 
 
-   	예) mglUx gradius.rom  
+   	예) mgLux gradius.rom  
 
-###  2. mglUx.com  [filename.rom] /opt
+###  2. mgLux.com  [filename.rom] /opt
   
    그럼에도 불구하고 
-   mglUx로 롬의 실행이 적절하게 이루어지지 않은 경우. 
-   mglUx가 롬의 mapper를 분석하는 시간을 생략하고 좀더 빠른 속도로 게임을 실행시키기 위하여. 
+   mgLux로 롬의 실행이 적절하게 이루어지지 않은 경우. 
+   mgLux가 롬의 mapper를 분석하는 시간을 생략하고 좀더 빠른 속도로 게임을 실행시키기 위하여. 
    이런 특별한 경우에 대하여 아래와 같이 최소한의 옵션을 사용하실 수 있습니다.
 
    /g - 만일 1번과 같은 방법으로 게임이 실행되지 않으면, /g 옵션을 사용하면
@@ -68,12 +68,12 @@ mgLux - MSX Megarom Loader for LuxuryBox - Written by ToughkidCST
   
    /k - "코나미10배로 즐기는 카트리지' 삽입 효과 발생
 
-	  예) mglUx hinotori.rom /k
+	  예) mgLux hinotori.rom /k
       	  불새를 실행하고, 슬롯2에 "코나미10배로 즐기는 카트리지" 를 삽입 효과 
      
    /k:keyword - keyword에 해당하는  카트리지를 슬롯2에 삽입 효과 발생 
 
-          예) mglUx gradius.rom /k:twinbee
+          예) mgLux gradius.rom /k:twinbee
           그라디우스를 실행하고 슬롯2에 트윈비 카트리지를 삽입 효과 
 
            코나미 합성비기가 발생하는 각 키워드는 다음과 같습니다. 
@@ -96,7 +96,7 @@ mgLux - MSX Megarom Loader for LuxuryBox - Written by ToughkidCST
                "usas",     우사스
                "salamand", 사라만다.          
 
-## Youtube Video Link - mglOcm, mglUx 코나미게임 합성 효과 즐기기 
+## Youtube Video Link - mglOcm, mgLux 코나미게임 합성 효과 즐기기 
  - https://www.youtube.com/watch?v=g5yTJ_7XwyQ&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=3
 
 ### 주의사항    -  
