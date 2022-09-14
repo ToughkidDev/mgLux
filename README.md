@@ -1,11 +1,5 @@
 # mgLux
-MSX LuxuryBox rom file loader
-
-### mglUx - Megarom Loader for LuxuryBox -  v2.191201 by ToughkidCST 2019 12
-
-
-
-
+## mglUx - MSX Megarom Loader for LuxuryBox - Written by ToughkidCST 2019 12
 
 
 ## 개요
