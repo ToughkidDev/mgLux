@@ -99,6 +99,9 @@ mgLux - MSX Megarom Loader for LuxuryBox - Written by ToughkidCST
 ## Youtube Video Link - mglOcm, mgLux 코나미게임 합성 효과 즐기기 
  - https://www.youtube.com/watch?v=g5yTJ_7XwyQ&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=3
 
+
+[![MSX mgLux mglOcm 코나미게임 합성 효과 즐기기](https://yt-embed.herokuapp.com/embed?v=g5yTJ_7XwyQ)](https://www.youtube.com/watch?v=g5yTJ_7XwyQ "MSX mgLux mglOcm 코나미게임 합성 효과 즐기기 ")
+
 ### 주의사항    -  
 
 	0. 게임을 즐기신 후,  MSX의 전원을 끈 뒤 안전한 부팅을 위하여 3초이상 전원이 꺼진 상태를
