@@ -66,6 +66,13 @@ mgLux - MSX Megarom Loader for LuxuryBox - Written by ToughkidCST
 	초기 메가램팩(재미나 골든박스, 딜럭스박스등)들을 위해 릴리즈되었던 변형분할된 파일중에는  
         호환성을 위해 이 옵션이 필요한 경우가 있습니다. 
   
+   /m - Sony에서 발매된 게임들에 댛 숨겨진 디버그 및 치트메뉴를 발생시키는 
+        일명 Sony Inside-Magic Key  기능을 Enable 시킵니다. 
+	GallForce, 雀聖, Replicart, 기기괴계, 패밀리복싱등의 게임들이 매직키 기능을 지원합니다. 
+
+## Youtube Video Link - mglOcm,  "Sony Inside(裏) Magic Key" support
+[![mglOcm, Sony Inside(裏) Magic Key support](https://yt-embed.herokuapp.com/embed?v=Vgrt5NiHgw0 )](https://youtu.be/Vgrt5NiHgw0 "Sony Inside(裏) Magic Key ")
+
    /k - "코나미10배로 즐기는 카트리지' 삽입 효과 발생
 
 	  예) mgLux hinotori.rom /k
